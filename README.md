@@ -1,2 +1,2 @@
 # helloworld
-none
+print("hello world");
